@@ -1,4 +1,4 @@
-# Forked and modified from DiariZen.
+**This code is forked and modified from DiariZen.
 
 ## Installation
 ```
