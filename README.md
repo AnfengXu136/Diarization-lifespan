@@ -1,5 +1,3 @@
-**This code is forked and modified from DiariZen.
-
 ## Installation
 ```
 # create virtual python environment
@@ -32,6 +30,8 @@ If you found this work helpful, please consider citing
   year={2026}
 }
 ```
+
+**This code is forked and modified from DiariZen.
 
 
 ## License
